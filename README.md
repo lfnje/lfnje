@@ -75,10 +75,10 @@ Aplicação web voltada à divulgação de receitas artesanais e serviços culin
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lfnje&show_icons=true&theme=radical&hide_border=true" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lfnje&show_icons=true&theme=radical&hide_border=true" width="750" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfnje&layout=compact&theme=radical&hide_border=true" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfnje&layout=compact&theme=radical&hide_border=true" width="750" />
 </p>
 
 ---
