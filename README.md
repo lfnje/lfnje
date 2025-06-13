@@ -1,4 +1,4 @@
-<h1 align="center">Luiz Filipe Nogueira 👋</h1>
+<h1 align="center">Luiz Filipe Nogueira</h1>
 
 <p align="center">
   <strong>Analista e Desenvolvedor de Sistemas</strong><br>
