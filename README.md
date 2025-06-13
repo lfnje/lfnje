@@ -83,5 +83,5 @@ Aplicação web voltada à divulgação de receitas artesanais e serviços culin
 
 <p align="center">
   <em>“Tecnologia não apenas resolve problemas, mas também cria oportunidades.”</em><br>
-  <strong>— Luiz Filipe Nogueira</strong>
+  <strong>Luiz Filipe Nogueira</strong>
 </p>
