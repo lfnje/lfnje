@@ -17,7 +17,7 @@ Minha paixão pela tecnologia e desenvolvimento me impulsiona a buscar evoluçã
 ## 🎓 Formação Acadêmica
 
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
-  *(2024.2 - 2026.1)***
+  *(2024.2 - 2026.1)*
 
 ---
 
