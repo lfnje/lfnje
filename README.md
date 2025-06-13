@@ -14,13 +14,30 @@ Minha paixão pela tecnologia e desenvolvimento me impulsiona a buscar evoluçã
 
 ---
 
+## 🎓 Formação Acadêmica
+
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
+  *(2024.2 - 2026.1)***
+
+---
+
 ## 🚀 Habilidades Técnicas
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+## 🏅 Certificações
+
+- [Certificado Programmer] - [Faculdade Descomplica Digital] - [2024]
+- [Certificado - BackEnd Developer] - [Faculdade Descomplica Digital] - [2025]
+- [Certificado Basic FrontEnd] - [Faculdade Descomplica Digital] - [2025]
+- [Certificado Complementar Artificial Intelligence: Tools and Applications] - [Faculdade Descomplica Digital] - [2025]
+- [Certificado Complementar - Techniques and Tools for Projects] - [Faculdade Descomplica Digital] - [2025]
 
 ---
 
@@ -38,23 +55,6 @@ Aplicação web voltada à divulgação de receitas artesanais e serviços culin
 
 ---
 
-## 🎓 Formação Acadêmica
-
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
-  *(2024.2 - 2026.1)*
-
----
-
-## 🏅 Certificações
-
-- [Certificado Complementar Artificial Intelligence: Tools and Applications] - [Faculdade Descomplica Digital] - [2025]
-- [Certificado - BackEnd Developer] - [Faculdade Descomplica Digital] - [2025]
-- [Certificado Basic FrontEnd] - [Faculdade Descomplica Digital] - [2025]
-- [Certificado Programmer] - [Faculdade Descomplica Digital] - [2024]
-- [Certificado Complementar - Techniques and Tools for Projects] - [Faculdade Descomplica Digital] - [2025]
-
----
-
 ## 🌐 Idiomas
 
 - 🇧🇷 Português – Nativo  
@@ -63,11 +63,11 @@ Aplicação web voltada à divulgação de receitas artesanais e serviços culin
 
 ---
 
-## 📫 Contato & Redes
+## 📫 Contato 
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/luizfilipenogueira)  
-- 🌍 [Portfólio Digital]()  
-- 📧 [Email Profissional](mailto:lfnjecorporativo@gmail.com)  
+- 📧 [Email Profissional](mailto:lfnjecorporativo@gmail.com) 
+- 💬 [WhatsApp](https://wa.me/5571982344467?text=Ol%C3%A1.%20Vi%20seu%20perfil%20no%20Linkedln.%20Gostaria%20de%20entrar%20em%20contato.)
 - 📸 [Instagram](https://www.instagram.com/_lfnje)
 
 ---
