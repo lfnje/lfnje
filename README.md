@@ -72,15 +72,6 @@ Aplicação web voltada à divulgação de receitas artesanais e serviços culin
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lfnje&show_icons=true&theme=radical" height="250" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfnje&layout=compact&theme=radical" height="180" />
-</p>
-
----
-
 <p align="center">
   <em>“Tecnologia não apenas resolve problemas, mas também cria oportunidades.”</em><br>
   <strong>Luiz Filipe Nogueira</strong>
