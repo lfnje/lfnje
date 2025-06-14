@@ -29,7 +29,7 @@
 
 ## 💼 Projetos em Destaque
 
-### 🎯 [Portfólio Digital com Integrações Web](#)
+### 🎯 [Portfólio Digital com Integrações Web](https://lfnje.github.io/Portf-lio-Digital/)
 Projeto autoral desenvolvido com foco em apresentar minha trajetória, habilidades e principais projetos de forma clara, moderna e responsiva.  
 ✅ Utilizei **HTML, CSS e JavaScript** no Front-End.  
 🎯 Esse projeto representa minha identidade como desenvolvedor e minha capacidade de planejar, estruturar e entregar soluções completas e funcionais.
