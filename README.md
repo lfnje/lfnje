@@ -1,17 +1,4 @@
 <h1 align="center">Luiz Filipe Nogueira</h1>
-
-<p align="center">
-  <strong>Analista e Desenvolvedor de Sistemas</strong><br>
-  <em>Em busca de oportunidades | Disponível para Trabalhos Freelancers</em>
-</p>
-
----
-
-## 👨‍💻 Sobre Mim
-
-Me chamo **Luiz Filipe Nogueira**. Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho planos de, em breve, expandir minha formação com o **Bacharelado em Engenharia de Software**.
-Minha paixão pela tecnologia e desenvolvimento me impulsiona a buscar evolução contínua, tanto técnica quanto profissional. Meu objetivo é me tornar um **Desenvolvedor Full Stack altamente qualificado**, capaz de atuar em projetos robustos, escaláveis e inovadores, contribuindo para soluções que impactem positivamente pessoas e negócios. Atualmente, possuo habilidades em **HTML, CSS e JavaScript**. Também tenho conhecimento básico em **React** e **Node.js**, além de familiaridade com **Python**, o que amplia minha capacidade de adaptação a diferentes tecnologias e projetos. Meu diferencial está na combinação de **comprometimento, proatividade e foco em resultados**, aliado à busca permanente por excelência no que faço. Acredito que a tecnologia não apenas resolve problemas, mas também cria oportunidades – é com esse pensamento que me dedico a cada projeto.
-
 ---
 
 ## 🎓 Formação Acadêmica
