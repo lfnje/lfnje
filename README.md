@@ -1,5 +1,4 @@
 <h1 align="center">Luiz Filipe Nogueira</h1>
----
 
 ## 🎓 Formação Acadêmica
 
