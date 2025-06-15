@@ -25,11 +25,11 @@
 
 ## 🏅 Certificações
 
-- [Certificado Programmer] - [Faculdade Descomplica Digital] - [2024]
-- [Certificado - BackEnd Developer] - [Faculdade Descomplica Digital] - [2025]
-- [Certificado Basic FrontEnd] - [Faculdade Descomplica Digital] - [2025]
-- [Certificado Complementar Artificial Intelligence: Tools and Applications] - [Faculdade Descomplica Digital] - [2025]
-- [Certificado Complementar - Techniques and Tools for Projects] - [Faculdade Descomplica Digital] - [2025]
+- Certificado Programmer - [Faculdade Descomplica Digital] - [2024]
+- Certificado - BackEnd Developer - [Faculdade Descomplica Digital] - [2025]
+- Certificado Basic FrontEnd - [Faculdade Descomplica Digital] - [2025]
+- Certificado Complementar Artificial Intelligence: Tools and Applications - [Faculdade Descomplica Digital] - [2025]
+- Certificado Complementar - Techniques and Tools for Projects - [Faculdade Descomplica Digital] - [2025]
 
 ---
 
