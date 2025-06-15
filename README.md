@@ -1,5 +1,15 @@
 <h1 align="center">Luiz Filipe Nogueira</h1>
 
+---
+
+## 📊 Contribuições no GitHub
+
+<p align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/lfnje?chart=3dbar&gap=0.6&scale=4&light=5&animation=spin&animation_duration=0&animation_delay=0&format=svg&weeks=30&theme=pink&widget_size=small&dark=true" alt="3D GitHub Contributions" />
+</p>
+
+---
+
 ## 🎓 Formação Acadêmica
 
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
@@ -54,6 +64,7 @@ Aplicação web voltada à divulgação de receitas artesanais e serviços culin
 - 🔗 [LinkedIn](https://www.linkedin.com/in/luizfilipenogueira)  
 - 📧 [Email Profissional](mailto:lfnjecorporativo@gmail.com?subject=Contato%20via%20GitHub&body=Ol%C3%A1.%20Como%20vai%3F%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato.)
 - 💬 [WhatsApp](https://wa.me/5571982344467?text=Ol%C3%A1.%20Vi%20seu%20perfil%20no%20Linkedln.%20Gostaria%20de%20entrar%20em%20contato.)
+
 - 📸 [Instagram](https://www.instagram.com/_lfnje)
 
 ---
