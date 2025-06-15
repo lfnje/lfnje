@@ -5,33 +5,18 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lfnje&theme=tokyonight&locale=pt-br" alt="GitHub Streak Stats" />
-</p>
-
----
-
-### 📈 Visualização 3D das Contribuições
-
-<p align="center">
   <img src="https://ssr-contributions-svg.vercel.app/_/lfnje?chart=3dbar&gap=0.6&scale=3&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=cyan&dark=true" alt="Contribuições de Luiz Filipe Nogueira no GitHub" />
 </p>
 
-> Esta é uma representação visual em 3D das minhas contribuições ao longo do tempo.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lfnje&theme=tokyonight&locale=pt-br" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfnje&layout=compact&theme=tokyonight" alt="Linguagens mais usadas por Luiz Filipe Nogueira" />
 </p>
-
----
-
-## 🎓 Formação Acadêmica
-
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
-  *(2024.2 - 2026.1)*
-
----
 
 ## 🚀 Habilidades Técnicas
 
