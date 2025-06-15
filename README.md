@@ -4,14 +4,6 @@
   <img src="https://ssr-contributions-svg.vercel.app/_/lfnje?chart=3dbar&gap=0.6&scale=3&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=cyan&dark=true" alt="Contribuições de Luiz Filipe Nogueira no GitHub" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lfnje&show_icons=true&theme=tokyonight" alt="Estatísticas de Luiz Filipe Nogueira" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfnje&layout=compact&theme=tokyonight" alt="Linguagens mais usadas por Luiz Filipe Nogueira" />
-</p>
-
 ---
 
 ## 🎓 Formação Acadêmica
@@ -69,6 +61,16 @@ Aplicação web voltada à divulgação de receitas artesanais e serviços culin
 - 📧 [Email Profissional](mailto:lfnjecorporativo@gmail.com?subject=Contato%20via%20GitHub&body=Ol%C3%A1.%20Como%20vai%3F%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato.)
 - 💬 [WhatsApp](https://wa.me/5571982344467?text=Ol%C3%A1.%20Vi%20seu%20perfil%20no%20Linkedln.%20Gostaria%20de%20entrar%20em%20contato.)
 - 📸 [Instagram](https://www.instagram.com/_lfnje)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lfnje&show_icons=true&theme=tokyonight" alt="Estatísticas de Luiz Filipe Nogueira" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfnje&layout=compact&theme=tokyonight" alt="Linguagens mais usadas por Luiz Filipe Nogueira" />
+</p>
 
 ---
 
