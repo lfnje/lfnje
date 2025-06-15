@@ -1,7 +1,15 @@
-## 📊 Contribuições no GitHub
+## 📊 Contribuições e Estatísticas no GitHub
 
 <p align="center">
   <img src="https://ssr-contributions-svg.vercel.app/_/lfnje?chart=3dbar&gap=0.6&scale=3&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=cyan&dark=true" alt="Contribuições de Luiz Filipe Nogueira no GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lfnje&show_icons=true&theme=tokyonight" alt="Estatísticas de Luiz Filipe Nogueira" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfnje&layout=compact&theme=tokyonight" alt="Linguagens mais usadas por Luiz Filipe Nogueira" />
 </p>
 
 ---
@@ -25,10 +33,10 @@
 
 ## 🏅 Certificações
 
-- Certificado Programmer - [Faculdade Descomplica Digital] - [2024]
-- Certificado - BackEnd Developer - [Faculdade Descomplica Digital] - [2025]
-- Certificado Basic FrontEnd - [Faculdade Descomplica Digital] - [2025]
-- Certificado Complementar Artificial Intelligence: Tools and Applications - [Faculdade Descomplica Digital] - [2025]
+- Certificado Programmer - [Faculdade Descomplica Digital] - [2024]  
+- Certificado - BackEnd Developer - [Faculdade Descomplica Digital] - [2025]  
+- Certificado Basic FrontEnd - [Faculdade Descomplica Digital] - [2025]  
+- Certificado Complementar Artificial Intelligence: Tools and Applications - [Faculdade Descomplica Digital] - [2025]  
 - Certificado Complementar - Techniques and Tools for Projects - [Faculdade Descomplica Digital] - [2025]
 
 ---
@@ -68,3 +76,4 @@ Aplicação web voltada à divulgação de receitas artesanais e serviços culin
   <em>“Tecnologia não apenas resolve problemas, mas também cria oportunidades.”</em><br>
   <strong>Luiz Filipe Nogueira</strong>
 </p>
+
