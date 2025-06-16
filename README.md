@@ -1,3 +1,11 @@
+<h1 align="center">Initializing...</h1>
+
+<p align="center">
+  <img src="pixel Art - programando" alt="Pixel Art" width="160" />
+</p>
+
+---
+
 ## 🚀 Habilidades Técnicas
 
 <p align="center">
@@ -10,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfnje&layout=compact&theme=tokyonight" alt="Linguagens mais usadas por Luiz Filipe Nogueira" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfnje&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 ---
