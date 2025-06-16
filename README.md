@@ -4,7 +4,6 @@
   <img src="img/pixel-art.gif" width="300" />
 </p>
 
----
 
 ## 🚀 Habilidades Técnicas
 
