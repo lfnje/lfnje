@@ -1,7 +1,7 @@
 <h1 align="center">Initializing...</h1>
 
 <p align="center">
-  <img src="pixel Art - programando.gif" alt="Pixel Art" width="160" />
+  <img src="" alt="Pixel Art" width="160" />
 </p>
 
 ---
