@@ -1,8 +1,6 @@
-<h1 align="center">Initializing...</h1>
-
-<p align="center">
-  <img src="img/pixel-art.gif" alt="Pixel Art" width="250"/>
-</p>
+<h1 align="center">Initializing...
+  <img src="img/pixel-art.gif" alt="Pixel Art" width="300"/>
+</h1>
 
 ---
 
