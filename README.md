@@ -6,7 +6,7 @@
   <img src="img/pixel-art.gif" width="270" />
 </p>
 
-## 🚀 Habilidades Técnicas
+## 🚀 Technical Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"&nbsp;&nbsp; />
@@ -23,7 +23,7 @@
 
 ---
 
-## 📊 Contribuições e Estatísticas no GitHub
+## 📊 Contributions and Statistics on GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=lfnje&theme=tokyonight&locale=pt-br" alt="GitHub Streak Stats" />
@@ -35,21 +35,21 @@
 
 ---
 
-## 💼 Projetos em Destaque
+## 💼 Featured Projects
 
 ### 🎯 [Portfólio Digital com Integrações Web](https://lfnje.github.io/Portf-lio-Digital/)
-Projeto autoral desenvolvido com foco em apresentar minha trajetória, habilidades e principais projetos de forma clara, moderna e responsiva.  
-✅ Utilizei **HTML, CSS e JavaScript** no Front-End.  
-🎯 Esse projeto representa minha identidade como desenvolvedor e minha capacidade de planejar, estruturar e entregar soluções completas e funcionais.
+Authorial project developed with a focus on presenting my trajectory, skills and main projects in a clear, modern and responsive way.  
+✅ I used **HTML, CSS and JavaScript** in the Front-End.  
+🎯 This project represents my identity as a developer and my ability to plan, structure and deliver complete and functional solutions.
 
 ### 🥘 [Delícias das Comadres](#)
-Aplicação web voltada à divulgação de receitas artesanais e serviços culinários personalizados.  
-✅ Desenvolvida com **HTML, CSS, JavaScript e JSON**.  
-📱 Foco em **responsividade, acessibilidade e praticidade** para oferecer uma navegação fluida e intuitiva.
+Web application aimed at promoting artisanal recipes and personalized culinary services.  
+✅ Developed with **HTML, CSS, JavaScript and JSON**.  
+📱 Focus on **responsiveness, accessibility and practicality** to offer fluid and intuitive navigation.
 
 ---
 
-## 📫 Contato 
+## 📫 Contact
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/luizfilipenogueira)  
 - 📧 [Email Profissional](mailto:lfnjecorporativo@gmail.com?subject=Contato%20via%20GitHub&body=Ol%C3%A1.%20Como%20vai%3F%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato.)
@@ -59,6 +59,6 @@ Aplicação web voltada à divulgação de receitas artesanais e serviços culin
 ---
 
 <p align="center">
-  <em>“Tecnologia não apenas resolve problemas, mas também cria oportunidades.”</em><br>
+  <em>“Technology not only solves problems, it also creates opportunities.”</em><br>
   <strong>Luiz Filipe Nogueira</strong>
 </p>
