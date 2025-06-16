@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="img/pixel-art.gif" width="260" />
+  <img src="img/pixel-art.gif" width="265" />
 </p>
 
 ## 🚀 Habilidades Técnicas
