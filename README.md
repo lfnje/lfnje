@@ -26,7 +26,7 @@
 ## 📊 Contributions and Statistics on GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lfnje&theme=tokyonight&locale=pt-br" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lfnje&theme=tokyonight&locale=en" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
