@@ -42,7 +42,7 @@ Authorial project developed with a focus on presenting my trajectory, skills and
 ✅ I used **HTML, CSS and JavaScript** in the Front-End.  
 🎯 This project represents my identity as a developer and my ability to plan, structure and deliver complete and functional solutions.
 
-### 🥘 [Delícias das Comadres](#)
+### 🥘 [Delícias das Comadres](https://lfnje.github.io/Del-cia-das-Comadres/)
 Web application aimed at promoting artisanal recipes and personalized culinary services.  
 ✅ Developed with **HTML, CSS, JavaScript and JSON**.  
 📱 Focus on **responsiveness, accessibility and practicality** to offer fluid and intuitive navigation.
