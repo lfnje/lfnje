@@ -1,6 +1,6 @@
 <h1 align="center">
   <h1 align="center"> Luiz Filipe Nogueira </h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Desenvolvedor+de+Software+e+Analista+de+Sistemas%7C+Java+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Desenvolvedor+de+Software+e+Analista+de+Sistemas%7C+Java+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
