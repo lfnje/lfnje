@@ -7,7 +7,7 @@
   <img src="img/pixel-art.gif" width="270" />
 </p>
 
-## 🚀 Technical Skills
+## 🚀 Habilidades Técnicas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -23,7 +23,7 @@
 
 ---
 
-## 📊 Contributions and Statistics on GitHub
+## 📊 Contribuições e Estatísticas no GitHub
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=lfnje&theme=tokyonight&locale=en" alt="GitHub Streak Stats" />
