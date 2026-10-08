@@ -35,7 +35,7 @@
 
 ---
 
-## 📫 Contact
+## 📫 Contato
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/luizfilipenogueira)  
 - 📧 [Email Profissional](mailto:lfnjecorporativo@gmail.com?subject=Contato%20via%20GitHub&body=Ol%C3%A1.%20Como%20vai%3F%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato.)
@@ -45,6 +45,6 @@
 ---
 
 <p align="center">
-  <em>“Technology not only solves problems, it also creates opportunities.”</em><br>
+  <em>“A tecnologia não apenas resolve problemas, mas também cria oportunidades.”</em><br>
   <strong>Luiz Filipe Nogueira</strong>
 </p>
