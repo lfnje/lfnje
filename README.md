@@ -1,4 +1,6 @@
-<h1 align="center">Luiz Filipe Nogueira</h1>
+<p align="center" style="font-size: 32px; font-weight: bold;">Luiz Filipe Nogueira</p>
+
+<br />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=8000&color=FFFFFF&center=true&vCenter=true&width=1250&lines=Desenvolvedor+de+Software+e+Analista+de+Sistemas%7C+Java+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript" alt="Typing SVG"/>
@@ -43,3 +45,5 @@
   <em>“A tecnologia não apenas resolve problemas, mas também cria oportunidades.”</em><br>
   <strong>Luiz Filipe Nogueira</strong>
 </p>
+
+
