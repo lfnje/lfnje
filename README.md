@@ -43,5 +43,3 @@
   <em>“A tecnologia não apenas resolve problemas, mas também cria oportunidades.”</em><br>
   <strong>Luiz Filipe Nogueira</strong>
 </p>
-
-
