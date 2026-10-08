@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Repository+initialization..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Desenvolvedor de Software | + Java • React • Node.js • JavaScript • TypeScript..." alt="Typing SVG" />
 </h1>
 
 <p align="center">
