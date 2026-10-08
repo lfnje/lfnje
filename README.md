@@ -37,9 +37,6 @@
 
 - 💬 [WhatsApp](https://wa.me/5571982344467?text=Ol%C3%A1.%20Vi%20seu%20perfil%20no%20Linkedln.%20Gostaria%20de%20entrar%20em%20contato.)
 
-
----
-
 <p align="center">
   <em>“A tecnologia não apenas resolve problemas, mas também cria oportunidades.”</em><br>
   <strong>Luiz Filipe Nogueira</strong>
