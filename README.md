@@ -26,7 +26,7 @@
 ## 📊 Contribuições e Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lfnje&theme=tokyonight&locale=en" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=lfnje&theme=tokyonight&locale=en" alt="Estatísticas de Sequência do GitHub" />
 </p>
 
 <p align="center">
