@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 32px; font-weight: bold;">Luiz Filipe Nogueira</p>
+<p align="center" style="font-size: 100px; font-weight: bold;">Luiz Filipe Nogueira</p>
 
 <br />
 
