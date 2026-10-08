@@ -40,7 +40,6 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/luizfilipenogueira)  
 - 📧 [Email Profissional](mailto:lfnjecorporativo@gmail.com?subject=Contato%20via%20GitHub&body=Ol%C3%A1.%20Como%20vai%3F%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato.)
 - 💬 [WhatsApp](https://wa.me/5571982344467?text=Ol%C3%A1.%20Vi%20seu%20perfil%20no%20Linkedln.%20Gostaria%20de%20entrar%20em%20contato.)
-- 📸 [Instagram](https://www.instagram.com/_lfnje)
 
 ---
 
