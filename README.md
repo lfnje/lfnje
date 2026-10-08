@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="img/pixel-art.gif" width="270" />
+  <img src="img/pixel-art.gif" width="300" />
 </p>
 
 ## 🚀 Habilidades Técnicas
